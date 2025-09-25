@@ -1,3 +1,4 @@
+//Programa para crear globos al hacer click
 class Globo
 {
   float x, y,vx,vy;
